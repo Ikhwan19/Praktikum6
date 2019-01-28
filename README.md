@@ -1,18 +1,24 @@
 # CRUD
-*Login
+*Login<br>
 ![lat text](https://github.com/Ikhwan19/Praktikum6/blob/master/hasil%20tampilan/login.JPG)
 ##############################
-*+Data
+*+Data<br>
 ![lat text](https://github.com/Ikhwan19/Praktikum6/blob/master/hasil%20tampilan/%2Bdata.JPG)
+*Data+1<br>
+![lat text](https://github.com/Ikhwan19/Praktikum6/blob/master/hasil%20tampilan/%2Data1.JPG)
 ##############################
-*Delete
+*Delete<br>
 ![lat text](https://github.com/Ikhwan19/Praktikum6/blob/master/hasil%20tampilan/del.JPG)
 ##############################
-*Update/edit
+*Update/edit<br>
 ![lat text](https://github.com/Ikhwan19/Praktikum6/blob/master/hasil%20tampilan/edit.JPG)
 ##############################
-*+Kategori
+*+Kategori<br>
 ![lat text](https://github.com/Ikhwan19/Praktikum6/blob/master/hasil%20tampilan/%2Bkategori.JPG)
+*Kategori+1<br>
+![lat text](https://github.com/Ikhwan19/Praktikum6/blob/master/hasil%20tampilan/%2Kategori1.JPG)
 ##############################
-*+Barang
+*+Barang<br>
 ![lat text](https://github.com/Ikhwan19/Praktikum6/blob/master/hasil%20tampilan/%2Bbarang.JPG)
+*Barang+1<br>
+![lat text](https://github.com/Ikhwan19/Praktikum6/blob/master/hasil%20tampilan/%2Bbarang1.JPG)
